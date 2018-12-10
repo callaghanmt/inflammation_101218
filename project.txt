@@ -1,0 +1,10 @@
+Project:
+A data analysis project to explore how patient inflammation changes over time after surgery.
+
+People:
+Jane is a Data Scientist.
+Samit is a Statistician
+
+We will need to determine who is responsible for what in this project
+We will probably need a programmer.
+This person will need to be competent in R or Python, preferably both.

@@ -8,3 +8,5 @@ Samit is a Statistician
 We will need to determine who is responsible for what in this project
 We will probably need a programmer.
 This person will need to be competent in R or Python, preferably both.
+
+The programmer also needs to be familiar with Pandas, matplotlib and ggplot
